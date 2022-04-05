@@ -13,16 +13,14 @@ import org.bukkit.plugin.PluginDescriptionFile;
 import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class OTC extends JavaPlugin
-{
-	//	Push from Eclipse test
+public class OTC extends JavaPlugin {
+
 	public static final Logger console = Logger.getLogger("OTC");
 	public OTCHelper helper;
 
 	File pluginDir = new File("plugins/OnTheClock/");
 	File clockDir = new File("plugins/OnTheClock/Players/");
 
-	@Override
 	public void onEnable()
 	{
 		PluginManager pm = getServer().getPluginManager();

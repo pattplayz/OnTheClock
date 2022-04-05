@@ -1,4 +1,4 @@
-author: PattPlayz,Ar7ific1al
+authors: [PattPlayz, Ar7ific1al]
 description: Your staff will now clock in and out.
 main: src.com.pattplayz.otc.OTC
 name: OnTheClock
