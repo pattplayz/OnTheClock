@@ -1,0 +1,15 @@
+###############################################################################
+#              ____     _______ _           _____ _            _              #
+#             / __ \   |__   __| |         / ____| |          | |             #
+#            | |  | |_ __ | |  | |__   ___| |    | | ___   ___| | __          #
+#            | |  | | '_ \| |  | '_ \ / _ \ |    | |/ _ \ / __| |/ /          #
+#            | |__| | | | | |  | | | |  __/ |____| | (_) | (__|   <           #
+#            \____/|_| |_|_|  |_| |_|\___|\_____|_|\___/ \___|_|\_\           #
+###############################################################################
+
+#				Placed at the beginning of each OTC announcement			#
+#	Trailing space is required for proper appearance of broadcast messages	#
+Prefix: "&6[OTC]&f "
+
+#	The default login message format for players without custom login message permissions	#
+DefaultFormat: "&c%p &eis here! Need help? Ask them!"
