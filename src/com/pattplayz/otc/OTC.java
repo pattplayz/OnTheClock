@@ -31,8 +31,7 @@ public class OTC extends JavaPlugin {
 
 		if (!pluginDir.exists())
 		{
-			console.log(Level.INFO,
-					"[OTC] Performing first-time startup operations.");
+			console.log(Level.INFO,"[OTC] Performing first-time startup operations.");
 			pluginDir.mkdir();
 			clockDir.mkdir();
 			console.log(Level.INFO, "[OTC] First-time startup operations complete.");
